@@ -21,10 +21,6 @@ At Remote Eazy, we believe that remote work is the future, and we are dedicated 
 **Rezy** is an intuitive invoice generator designed specifically for remote workers. Whether you're a freelancer, consultant, or digital nomad, Rezy makes it easy to create, manage, and send professional invoices with just a few clicks.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4b45a9xxuC1HnO/giphy.gif" alt="Invoice Generator Animation" width="400">
-</p>
-
-<p align="center">
  <b>Remote Eazy</b> - Empowering Remote Work for Everyone <img src="https://img.icons8.com/cotton/16/000000/checked.png" alt="Checked Icon" />
 </p>
 
